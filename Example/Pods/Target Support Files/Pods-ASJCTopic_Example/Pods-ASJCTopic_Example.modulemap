@@ -1,0 +1,6 @@
+framework module Pods_ASJCTopic_Example {
+  umbrella header "Pods-ASJCTopic_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

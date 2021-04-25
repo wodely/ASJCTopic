@@ -1,8 +1,8 @@
 {
   "name": "ASJCTopic",
   "version": "0.1.0",
-  "summary": "A short description of ASJCTopic.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "轮播控件",
+  "description": "轮播控件",
   "homepage": "https://github.com/liukecyl@163.com/ASJCTopic",
   "license": {
     "type": "MIT",
@@ -12,11 +12,16 @@
     "liukecyl@163.com": "540548997@qq.com"
   },
   "source": {
-    "git": "https://github.com/liukecyl@163.com/ASJCTopic.git",
+    "git": "https://github.com/wodely/ASJCTopic.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "ASJCTopic/Classes/**/*"
+  "source_files": "ASJCTopic/Classes/**/*",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
 }
