@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "UIImageView+WebCache.h"
+#import <SDWebImage/SDWebImage.h>
 
 @protocol JCTopicDelegate<NSObject>
 

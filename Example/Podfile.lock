@@ -1,5 +1,5 @@
 PODS:
-  - ASJCTopic (0.1.0):
+  - ASJCTopic (0.2.0):
     - SDWebImage
   - SDWebImage (5.11.1):
     - SDWebImage/Core (= 5.11.1)
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ASJCTopic: 24ea088ac9043f071f6046720fc9b6d5ce28896b
+  ASJCTopic: ae1fc9d4ca36d6bd5c987d239257cb706289857b
   SDWebImage: a7f831e1a65eb5e285e3fb046a23fcfbf08e696d
 
 PODFILE CHECKSUM: d4bafa256ffe38e8865c956116ab9e8c340b60ca

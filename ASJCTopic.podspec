@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASJCTopic'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '轮播控件'
 
 # This description is used to generate tags and improve search results.
@@ -18,10 +18,10 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-      轮播控件
+      轮播控件,简单方便
                        DESC
 
-  s.homepage         = 'https://github.com/liukecyl@163.com/ASJCTopic'
+  s.homepage         = 'https://github.com/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liukecyl@163.com' => '540548997@qq.com' }
